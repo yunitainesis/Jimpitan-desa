@@ -24,6 +24,8 @@
             --card-border: rgba(16, 185, 129, 0.25); /* Emerald Border */
             --card-shadow: 0 10px 15px -3px rgba(16, 185, 129, 0.1), 0 4px 6px -4px rgba(16, 185, 129, 0.05);
             --card-shadow-hover: 0 20px 25px -5px rgba(16, 185, 129, 0.2), 0 8px 10px -6px rgba(16, 185, 129, 0.1);
+            --primary-pastel: #A7F3D0; /* Emerald 200 */
+            --primary-very-light: #ECFDF5; /* Emerald 50 */
             --sidebar-width: 280px;
         }
 
